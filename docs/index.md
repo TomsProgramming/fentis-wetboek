@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Wet- en Regelgeving Fentis Roleplay
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welkom op de pagina voor de Wet- en Regelgeving van Fentis!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Fentis.
 
-## Commands
+Zorg ervoor, dat je voor je deelneemt aan Fentis, kennis hebt genomen van deze wetten.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
+- Het Wetboek Fentis bevat alle wetten voor de burgers.
 
-## Project layout
+## Officiële discord servers
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Fentis heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+
+| Server | Beschrijving | Invite link |
+|---|---|:---:|
+|Fentis RolePlay| Main discord server van Fentis | [Invite](https://discord.gg/HCjjkbsUYN) |
+|Fentis Support| Support discord server van Fentis | [Invite](https://discord.gg/MqrjK4C6cM) |
+|Fentis Overheid| Overheids discord server van Fentis | [Invite](https://discord.gg/s6vMhMDknt) |
+|Fentis Onderwereld| Onderwereld discord server van Fentis | [Invite](https://discord.gg/aaZx8Z2wEV) |
